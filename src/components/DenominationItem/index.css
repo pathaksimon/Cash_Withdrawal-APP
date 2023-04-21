@@ -1,0 +1,16 @@
+.lie {
+  list-style: none;
+}
+
+.bitta {
+  height: 40px;
+  width: 180px;
+  margin: 5px;
+  background-color: #382f5a;
+  color: white;
+  border: 1px solid white;
+}
+
+.super {
+  display: flex;
+}
